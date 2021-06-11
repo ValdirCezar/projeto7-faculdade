@@ -9,6 +9,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 import { MatGridListModule } from '@angular/material/grid-list';
+import { MatTableModule } from '@angular/material/table';
 
 import { HeaderComponent } from './components/header/header.component';
 import { ContentComponent } from './components/content/content.component';
@@ -27,6 +28,7 @@ import { ContentComponent } from './components/content/content.component';
     MatButtonModule,
     MatCardModule,
     MatGridListModule,
+    MatTableModule
   ],
   providers: [],
   bootstrap: [AppComponent]
