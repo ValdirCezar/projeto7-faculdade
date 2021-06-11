@@ -1,0 +1,10 @@
+mat-toolbar {
+  margin-top: 2rem;
+  background-color: rgb(226, 219, 219);
+  height: 5%;
+  color: rgb(22, 22, 22);
+  font-size: 12px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
